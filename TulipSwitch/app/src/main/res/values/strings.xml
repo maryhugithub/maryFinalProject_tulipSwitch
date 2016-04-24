@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tulip Switch</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_comments">Enter your comments</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">Your Comments</string>
+    <string name="title_activity_display_text_ui">DisplayTextUI</string>
+    <string name="title_activity_activity_display_message">activity_display_message</string>
+</resources>
